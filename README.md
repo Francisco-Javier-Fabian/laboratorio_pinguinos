@@ -1,7 +1,7 @@
 # 🧪 Laboratorio de Datos
 
 Bienvenido a este espacio donde los datos dejan de ser números aburridos  
-y empiezan a contar historias (sí, aunque al principio no lo parezca).
+y empiezan a contar historias.
 
 ---
 
