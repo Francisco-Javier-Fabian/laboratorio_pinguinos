@@ -43,4 +43,3 @@ Durante el curso utilizaremos:
 
 
 > “Sin datos, solo eres otra persona con una opinión.”  
-> *(y sí, eso duele un poco)*
